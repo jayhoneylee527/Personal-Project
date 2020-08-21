@@ -1,2 +1,2 @@
-# Personal-Project
-# It's a collection of personal/in-class project for display purposes.
+### Welcome!
+### It's a collection of personal/in-class project for display purposes.
